@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">InClass08</string>
+    <array name="sortBy">
+        <item name="type1">First Name</item>
+        <item name="type2">Last Name</item>
+        <item name="type3">Gender</item>
+    </array>
+
+    <array name="sortByValues">
+        <item name="type1">first_name</item>
+        <item name="type2">last_name</item>
+        <item name="type3">gender</item>
+    </array>
+
+    <string name="preference">How do you want to sort?</string>
+    <string name="preferenceSummary">Choose which key you want to sort the list by</string>
+
+    <array name="sortOrder">
+        <item name="type1">Ascending</item>
+        <item name="type2">Descending</item>
+    </array>
+
+    <array name="sortOrderValues">
+        <item name="type1">ASC</item>
+        <item name="type2">DESC</item>
+    </array>
+
+    <string name="preferenceOrder">Choose the sorting order</string>
+    <string name="preferenceOrderSummary">Choose ASC or DESC</string>
+</resources>
